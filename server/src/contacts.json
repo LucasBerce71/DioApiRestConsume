@@ -1,0 +1,62 @@
+[
+  {
+    "nome_completo": "Lucas Bercê de Jesus",
+    "telefone": "(11)95294-1306",
+    "email": "lucasberce71@gmail.com",
+    "language": "Dart/Flutter"
+  },
+  {
+    "nome_completo": "Lucas Pellison",
+    "telefone": "(11)99999-9999",
+    "email": "lucaspellison@gmail.com",
+    "language": "JavaScript/React"
+  },
+  {
+    "nome_completo": "Guilherme Rodz",
+    "telefone": "(11)99999-9999",
+    "email": "rodz@gmail.com",
+    "language": "JavaScript/React"
+  },
+  {
+    "nome_completo": "João Davila",
+    "telefone": "(11)99999-9999",
+    "email": "joaodavila@gmail.com",
+    "language": "Dart/Flutter"
+  },
+  {
+    "nome_completo": "Leandro Ferrari",
+    "telefone": "(11)99999-9999",
+    "email": "leandroferrari@gmail.com",
+    "language": "Java/Spring"
+  },
+  {
+    "nome_completo": "Luca Guiraldelo",
+    "telefone": "(11)99999-9999",
+    "email": "lucaguiraldelo@gmail.com",
+    "language": "C#/.NET"
+  },
+  {
+    "nome_completo": "Vinícius Neves",
+    "telefone": "(11)99999-9999",
+    "email": "viniciusneves@gmail.com",
+    "language": "JavaScript/C#/.NET"
+  },
+  {
+    "nome_completo": "Rodrigo Rahman",
+    "telefone": "(11)99999-9999",
+    "email": "rahman@gmail.com",
+    "language": "JavaScript/React/Dart/Flutter"
+  },
+  {
+    "nome_completo": "Diego Fernandes",
+    "telefone": "(11)99999-9999",
+    "email": "diegofernandes@gmail.com",
+    "language": "JavaScript/React"
+  },
+  {
+    "nome_completo": "Mayk Brito",
+    "telefone": "(11)99999-9999",
+    "email": "maykbrito@gmail.com",
+    "language": "JavaScript"
+  }
+]
